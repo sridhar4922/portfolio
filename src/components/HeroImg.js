@@ -15,6 +15,7 @@ const HeroImg = () => {
           <h4>Full Stack Developer</h4>
           <div>
             <Link to= "https://sridhar4922.github.io/Resume/" target="_blank" className="btn" >Resume</Link>
+            
             <Link to="/contact" className="btn btn-light">Contact</Link>
           </div>
         </div>
